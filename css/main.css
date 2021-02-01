@@ -2,7 +2,7 @@
  body {
   background: linear-gradient(70deg, #383838, #858585);
   color: #514B64;
-  min-height: 100vh;
+  /* min-height: 100vh; */
 }
 
 code {
